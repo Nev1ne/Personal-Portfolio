@@ -76,7 +76,7 @@ html {
   /* Profile
   ------------------------------------*/
   header {
-    background: #2F3061;
+    background: #030416;
     color: #F7FFF7;
   }
   
@@ -89,3 +89,20 @@ html {
   .projects a {
     color: #2F3061;
   }
+  .projects .btn {
+    background: #2F3061;
+    color: #F7FFF7;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .projects .btn:hover {
+    background: rgba(47,48,97,80%);
+  }
+  .project-item h3 {
+    margin-top: 0;
+  }
+  
+  
+g  
