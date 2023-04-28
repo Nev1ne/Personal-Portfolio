@@ -103,5 +103,15 @@ html {
   .project-item h3 {
     margin-top: 0;
   }
-  
+  /* Education
+------------------------------------*/
+.education {
+    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+    background-position: top right;
+    background-size: cover;
+    padding-bottom: 100px;
+  }
+  .education p {
+    width: 60%;
+  }
   
