@@ -84,8 +84,8 @@ html {
   /* Projects
   ------------------------------------*/
   .projects {
-    color: #F7FFF7;
-    background: #3E432E;
+    color: #1c251c;
+    background: #fdfdfb;
   }
   .projects a {
     color: #2F3061;
@@ -107,13 +107,13 @@ html {
 /* Work Experience
 ------------------------------------*/
 .work-experience{
-  background: #616F39;
+  background: #396b6f;
 }
 
   /* Education
 ------------------------------------*/
 .education {
-    background: #A7D129;
+    background: #014244;
     color: #F7FFF7;
     background-position: top right;
     background-size: cover;
@@ -125,15 +125,17 @@ html {
   /* Contact Info
 ------------------------------------*/
 footer {
-    background: #343434;
+    display: flex;
+    background: #01302d;
     color: #F7FFF7;
   }
   .contact-list {
     list-style-type: none;
     padding: 0;
+
   }
   .contact-list a {
     padding: 5px;
-    display: inline-block;
+    margin: auto;
   }
   
